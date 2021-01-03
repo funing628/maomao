@@ -51,7 +51,7 @@ h1 {
  animation: silder 15s linear infinite;
 }
 .coverflow>a>img{
-    max-width=100%
+    max-width:auto;
     align : center;
 }
 
